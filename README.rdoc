@@ -1,9 +1,9 @@
 == README
 
-This is a finance app, where users can track stocks add friends and track friends stocks, this app also uses AJAX
+This is a finance app, where users can track stocks add friends and track friends stocks, this app also uses AJAX and the stock quote gem
 
 * ...
 
 
-Please feel free to use a different markup language if you do not plan to run
+
 <tt>rake doc:app</tt>.
